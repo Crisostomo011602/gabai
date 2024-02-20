@@ -17,7 +17,7 @@ function sect3() {
           <div className="flex justify-center items-center ">
             <img
               class="h-20 w-20 object-cover rounded-full"
-              src={Convo}
+              src={CMessage}
               alt=""
             />
           </div>
@@ -33,7 +33,7 @@ function sect3() {
           <div className="flex justify-center items-center">
             <img
               class="h-15 w-15 object-cover rounded-full"
-              src={Search}
+              src={SearchIcon}
               alt=""
             />
           </div>
@@ -50,7 +50,7 @@ function sect3() {
           <div className="flex justify-center items-center">
             <img
               class="h-30 w-30 object-cover rounded-full"
-              src={PWA}
+              src={PhoneDesktop}
               alt=""
               className=""
             />
