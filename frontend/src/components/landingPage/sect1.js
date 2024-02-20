@@ -23,7 +23,7 @@ const WorkplaceDiscriminationLaws = () => {
           >
             A safe space against
             <br />
-            Workplace<span className="text-azure"> Discrimination</span>
+            workplace<span className="text-azure"> discrimination</span>
           </h1>
           <br />
           <p className="text-1xl mb-4 max-md:text-center">
